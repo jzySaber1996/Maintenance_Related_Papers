@@ -1,0 +1,5 @@
+RQ1: Which software maintenance tasks are accomplished by NLP technology? We aim to list the different software maintenance tasks, and identify the task subset which utilizes NLP tools to deal with the questions.
+RQ2: What kind of text representative methods are applied while disposing the maintenance-related artifacts? We aim to obtain the various preprocessing methods that normalize the representation of complex text, which benefit the following training process.
+RQ3: What NLP learning algorithms and training strategies are widely proposed in the training steps of processed text? We aim to study the concrete category of NLP tools which is applied in a corresponding training task, and introduce the relevant learning algorithms.
+RQ4: What aspects of evaluation methods are involved in the assessment step, and what are the corresponding evaluation metrics? We aim to figure out the angle of problem evaluation and present the specific measurement metrics in use.
+RQ5: What is the performance result of each aspect's evaluation metrics? We aim to answer the RQ4 in digital level and analyze the evaluation result in detail.
